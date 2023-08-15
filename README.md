@@ -3,9 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Yalda Khoshbahar</h1>
 <h3 align="center">A passionate Front-end developer from Iran 👩🏻‍💻</h3>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yalda-khoshbahar&label=Profile%20views&color=0e75b6&style=flat-square&color=eb104e" alt="yalda-khoshbahar"/> 
-</p>
 <br>
 <h3 align="left">💫 About Me:</h3>
 
