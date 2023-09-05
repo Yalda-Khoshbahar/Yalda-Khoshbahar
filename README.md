@@ -28,7 +28,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39"/>
 </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30" height="26"/>
+   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="31" height="27"/>
 </a>   
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="28" width="30"/>
