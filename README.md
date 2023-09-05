@@ -18,9 +18,12 @@
 <!-- <a href="https://discord.gg/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miss_khoshbahar" height="35" width="40" />
 </a> -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="38" height="38"/>
-</a>   
+</a>    -->
+<a href="https://discord.gg/WjEFnzC">
+  <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord">
+</a>
 <a href="https://twitter.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="30" width="40" />
 </a>
