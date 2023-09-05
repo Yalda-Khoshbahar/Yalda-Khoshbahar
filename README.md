@@ -24,9 +24,6 @@
 <a href="https://discord.gg/WjEFnzC">
   <img align="center" src="https://cdn.simpleicons.org/discord" alt="Discord" title="Discord" width="30" height="28">
 </a>
-<a href="https://twitter.com/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="32" width="33"/>
-</a>
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39"/>
 </a> -->
@@ -34,11 +31,14 @@
    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30" height="28"/>
 </a>   
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="32" width="32" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="30" width="31"/>
 </a>
 <a href="https://t.me/Miss_Khoshbahar_dev" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="38" height="32"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="36" height="30"/>
 </a>
+<a href="https://twitter.com/miss_khoshbahar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="30" width="32"/>
+</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
