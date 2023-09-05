@@ -27,8 +27,8 @@
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="30" width="36" />
 </a>
-  <a href="https://t.me/Miss_Khoshbahar_dev" target="blank">
-  <img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="telegram" height="26" width="39" />
+<a href="https://t.me/Miss_Khoshbahar_dev" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="26" width="39" />
 </a>
 </p>
 
