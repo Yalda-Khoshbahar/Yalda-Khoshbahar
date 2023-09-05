@@ -22,9 +22,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39" />
+</a>
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="30" width="36" />
+</a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
+  <img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39" />
 </a>
 </p>
 
