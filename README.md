@@ -15,18 +15,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/miss_khoshbahar" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miss_khoshbahar" height="35" width="40" />
-</a>
-<a href="https://discord.gg/miss_khoshbahar" target="blank">
+<!-- <a href="https://discord.gg/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miss_khoshbahar" height="35" width="40" />
-</a>
+</a> -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="38" height="38"/>
+</a>   
 <a href="https://twitter.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39" />
-</a>
+</a> -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="38" height="38"/>
+</a>   
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="30" width="36" />
 </a>
@@ -50,9 +53,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> 
-  </a>
+  </a> -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=js" alt="js" width="38" height="38"/>
+  </a> 
 <!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38"/> 
   </a> -->
