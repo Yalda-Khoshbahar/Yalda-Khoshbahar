@@ -22,16 +22,16 @@
    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="38" height="38"/>
 </a>    -->
 <a href="https://discord.gg/WjEFnzC">
-  <img align="center" src="https://cdn.simpleicons.org/discord" alt="Discord" title="Discord" height="32" width="32" >
+  <img align="center" src="https://cdn.simpleicons.org/discord" alt="Discord" title="Discord" width="30" height="28">
 </a>
 <a href="https://twitter.com/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="32" width="38" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="32" width="36" />
 </a>
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39" />
 </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="32" height="32"/>
+   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30" height="28"/>
 </a>   
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="32" width="34" />
