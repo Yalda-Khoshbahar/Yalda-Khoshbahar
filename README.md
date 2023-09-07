@@ -13,34 +13,6 @@
 - 🌱 Pronouns: Constant effort, cooperation, love of coding, striving to learn more. <br>
 - 💌 How to reach me: y.khoshbahar2003@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://discord.gg/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miss_khoshbahar" height="35" width="40" />
-</a> -->
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="38" height="38"/>
-</a>    -->
-<a href="https://discord.gg/WjEFnzC">
-  <img align="center" src="https://cdn.simpleicons.org/discord" alt="Discord" title="Discord" width="28" height="28">
-</a>
-<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39"/>
-</a> -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="31" height="27"/>
-</a>   
-<a href="https://instagram.com/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="28" width="30"/>
-</a>
-<a href="https://t.me/Miss_Khoshbahar_dev" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="34" height="28"/>
-</a>
-<a href="https://twitter.com/miss_khoshbahar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="28" width="28"/>
-</a> 
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -74,4 +46,32 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="38" height="38"/>
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://discord.gg/miss_khoshbahar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miss_khoshbahar" height="35" width="40" />
+</a> -->
+<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="38" height="38"/>
+</a>    -->
+<a href="https://discord.gg/WjEFnzC">
+  <img align="center" src="https://cdn.simpleicons.org/discord" alt="Discord" title="Discord" width="28" height="28">
+</a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39"/>
+</a> -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="31" height="27"/>
+</a>   
+<a href="https://instagram.com/miss_khoshbahar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_khoshbahar" height="28" width="30"/>
+</a>
+<a href="https://t.me/Miss_Khoshbahar_dev" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="34" height="28"/>
+</a>
+<a href="https://twitter.com/miss_khoshbahar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="28" width="28"/>
+</a> 
 </p>
