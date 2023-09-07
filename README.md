@@ -47,7 +47,8 @@
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="38" height="38"/>
   </a>
 </p>
-<br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://discord.gg/miss_khoshbahar" target="blank">
