@@ -76,3 +76,5 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_khoshbahar" height="28" width="28"/>
 </a> 
 </p>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
