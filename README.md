@@ -63,7 +63,7 @@
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalda-khoshbahar" height="26" width="39"/>
 </a> -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yalda-khoshbahar" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6RN0g2cPSWSS%2BekNBjq%2BnQ%3D%3D" target="_blank" rel="noreferrer"> 
    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="31" height="27"/>
 </a>   
 <a href="https://instagram.com/miss_khoshbahar" target="blank">
