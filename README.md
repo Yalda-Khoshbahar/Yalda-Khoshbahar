@@ -77,4 +77,4 @@
 </a> 
 </p>
 <br> 
-<img align="center" src="https://komarev.com/ghpvc/?username=yalda-khoshbahar&label=Profile%20views&color=0e75b6&style=flat-square&color=eb104e" alt="yalda-khoshbahar"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yalda-khoshbahar&label=Profile%20views&color=0e75b6&style=flat-square&color=eb104e" alt="yalda-khoshbahar"/></p>
