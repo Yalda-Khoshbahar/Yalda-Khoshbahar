@@ -78,5 +78,5 @@
 </p>
 <br> 
 <div id=badges align="left">
- <img src="https://komarev.com/ghpvc/?username=Yalda-Khoshbahar&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Yalda-Khoshbahar&style=flat-square&color=eb104e" alt=""/>
 </div>
